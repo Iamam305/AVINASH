@@ -42,7 +42,7 @@ body {
 
 .tm-section-1 {
   height: 750px;
-  background-image: url(../img/ani9.jpgg);
+  background-image: url(../img/ani9.jpg);
   background-size: cover;
   -webkit-clip-path: polygon(0px 0px, 100% 0px, 100% 84%, 0px 100%);
   clip-path: polygon(0px 0px, 100% 0px, 100% 84%, 0px 100%);
@@ -58,7 +58,7 @@ body {
   -webkit-clip-path: polygon(0px 0px, 100% 14%, 100% 86%, 0px 100%);
   clip-path: polygon(0px 0px, 100% 14%, 100% 86%, 0px 100%);
   background-repeat: no-repeat;
-  background-position: center -300px;
+  background-position: center -95px;
   display: flex;
   align-items: center;
 }
